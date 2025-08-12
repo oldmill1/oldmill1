@@ -1,1 +1,1 @@
-Use [Food XRay](https://github.com/oldmill1/Food-XRay).
+[Food XRay](https://github.com/oldmill1/Food-XRay) 
