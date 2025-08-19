@@ -1,3 +1,3 @@
-Auto-mate your commit messages with [cmtmsg](https://github.com/oldmill1/cmtmsg)
+Auto-mate your commit messages with [cmtmsg](https://oldmill1.github.io/cmtmsg/) 
 
 
