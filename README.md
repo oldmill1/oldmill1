@@ -1,1 +1,1 @@
-[Check out what I'm working on...](https://oldmill1.github.io/)
+Check out [oldmill1.github.io](https://oldmill1.github.io/).
